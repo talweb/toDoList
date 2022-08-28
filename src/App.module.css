@@ -1,0 +1,13 @@
+.todoApp {
+  display: flex;
+  flex-direction: column;
+  background-color: goldenrod;
+  justify-self: start;
+  width: 550px;
+  min-height: 600px;
+  text-align: center;
+  margin: 128px auto;
+  border-radius: 25px;
+  display: block;
+  margin: 30px auto;
+}
